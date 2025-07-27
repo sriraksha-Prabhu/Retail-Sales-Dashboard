@@ -2,10 +2,9 @@
 This Power BI project provides a visual analysis of retail sales data. The dashboard highlights business performance, product-level insights, and sales by category using interactive charts and DAX measures.
 
 📁 Files Included
+Dashboard screenshots
 Retail_Sales_Analysis.pbix – Main Power BI dashboard file
-
 retail_sales_data.csv – Sales dataset used 
-
 README.md – Project documentation
 
 📌 Dashboard Pages Overview
