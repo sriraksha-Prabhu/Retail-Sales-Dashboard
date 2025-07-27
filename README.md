@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis Dashboard – Power BI Project
+#  Retail Sales Analysis Dashboard – Power BI Project
 
 This Power BI project analyzes retail sales data to uncover business insights, improve decision-making, and visualize key performance metrics.
 
@@ -14,7 +14,7 @@ The dashboard is built to help businesses understand their sales and product per
 ### 2. Sales and Product Performance
 - **Top 10 Products by Sales**
 - **Profit by Product**
-- **Sales Breakdown using Bar & Pie Charts**
+- **Sales Breakdown using Bar & column Charts**
 
 ### 3. Sales by Category
 - **Sales by Product Category**
