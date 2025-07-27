@@ -1,55 +1,45 @@
-📊 Retail Sales Dashboard – Power BI
+# 🛍️ Retail Sales Analysis Dashboard – Power BI Project
 
-This Power BI project provides a visual analysis of retail sales data. The dashboard highlights business performance, product-level insights, and sales by category using interactive charts and DAX measures.
+This Power BI project analyzes retail sales data to uncover business insights, improve decision-making, and visualize key performance metrics.
 
-📁 Files Included
+## 📊 Project Overview
 
-Dashboard screenshots
+The dashboard is built to help businesses understand their sales and product performance. It is divided into multiple interactive pages:
 
-Retail_Sales_Analysis.pbix – Main Power BI dashboard file
+### 1. Business Summary
+- **KPIs**: Total Sales, Total Profit, Total Quantity, Profit Margin (%)
+- **Trend Analysis**: Line chart showing sales over time
+- **Card Visuals**: Highlight important metrics at a glance
 
-retail_sales_data.csv – Sales dataset used 
+### 2. Sales and Product Performance
+- **Top 10 Products by Sales**
+- **Profit by Product**
+- **Sales Breakdown using Bar & Pie Charts**
 
-README.md – Project documentation
+### 3. Sales by Category
+- **Sales by Product Category**
+- **Sub-Category Performance Comparison**
+- **Profit Distribution by Category**
 
-📌 Dashboard Pages Overview
+---
 
-1️⃣ Business Summary
+## ⚙️ Tools & Skills Used
+- **Power BI Desktop**
+- **DAX Measures** (e.g., Total Sales, Profit Margin %)
+- **Data Cleaning & Transformation**
+- **Visualizations**: Cards, Bar Charts, Pie Charts, Line Charts
+- **Slicers & Filters** for interactivity
 
-Total Sales, Profit, and Quantity using DAX measures
+---
 
-Profit Margin (calculated using DAX)
+## 🏁 Outcomes
+- Identified top-performing products and categories
+- Visualized overall sales trends and key metrics
+- Gained hands-on experience using Power BI for real-world reporting
 
-Monthly Sales Trend (Line Chart)
 
-2️⃣ Sales and Product Performance
 
-Top-selling Products (Bar Chart)
 
-Most Profitable Products
 
-Quantity Sold by Product
 
-3️⃣ Sales by Category
 
-Sales by Product Category and Sub-Category
-
-Profit by Category
-
-Helps identify best and worst performing categories
-
-🛠️ Power BI Features Used
-
-DAX Measures:
-
-Total Sales = SUM(Sales)  
-
-Total Profit = SUM(Profit) 
-
-Total Quantity = SUM(Quantity) 
-
-Profit Margin = DIVIDE(SUM(Profit), SUM(Sales))
-
-Visuals: Cards, Bar Charts, Column Charts, Line Charts, Slicers,pie chart
-
-Data Cleaning: Column formatting, product name shortening
